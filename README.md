@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enes Doğan.
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript, Reactjs.
+- 🌱 I’m currently learning Javascript, Reactjs, Bootstrap.
 
 
 <!---
