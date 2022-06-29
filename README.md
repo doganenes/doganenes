@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enes Doğan.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Frontend Web Development.
 - 🌱 I’m currently learning Javascript, Reactjs, Bootstrap.
 
 
