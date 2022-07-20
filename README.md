@@ -4,7 +4,7 @@
  🌱 I’m currently learning Javascript, Reactjs, Bootstrap.<br>
   </div>
 <hr>
-<h2 align="center">👇Contact me</h2>
+<h2 align="center">👇Contact with me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
