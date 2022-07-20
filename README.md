@@ -16,7 +16,7 @@
 
 
 ![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)](https://github.com/doganenes/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)
 
 
 <!---
