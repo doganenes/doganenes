@@ -28,7 +28,7 @@
 </div><br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=doganenes&theme=vision-friendly-dark&hide_border=true)<br/>
+![Sreak Stats](https://github-readme-streak-stats.herokuapp.com/?user=doganenes&theme=vision-friendly-dark&hide_border=true)<br/>
 ![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)<br/>
 ![Enes Doğan's github activity graph](https://activity-graph.herokuapp.com/graph?username=doganenes&theme=react-dark)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=doganenes&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
