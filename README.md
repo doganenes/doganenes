@@ -23,10 +23,11 @@
   <a target="_blank"href="https://codepen.io/enesdogan"><img src="https://img.shields.io/badge/CodePen-lightgray?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;
   <a target="_blank"href="https://enesdogan99.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:enesdogandigital@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div><br>
+</div><br/><br/>
 
 ![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)
+
 
 
 <!---
