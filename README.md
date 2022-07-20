@@ -1,8 +1,8 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/86846812/179927695-ea8451e3-bd5a-46c2-8176-4d855a4d2a61.jpeg"/></div><br/>
 <div align="center">
- 👋 Hi, I’m Enes Doğan.<br>
- 👀 I’m interested in Frontend Web Development.<br>
- 🌱 I’m currently learning Javascript, Reactjs, Bootstrap.<br>
+ 👋 Hi, I’m Enes Doğan.<br/>
+ 👀 I’m interested in Frontend Web Development.<br/>
+ 🌱 I’m currently learning Javascript, Reactjs, Bootstrap.<br/>
   </div>
 <hr>
 <h2 align="center">👇Contact with me</h2>
