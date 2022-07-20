@@ -16,7 +16,7 @@
 </p><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)
+![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)
 
 
