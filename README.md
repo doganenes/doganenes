@@ -27,9 +27,8 @@
   <a href="mailto:enesdogandigital@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br/><br/>
 
-![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark) ![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)
+![Enes Doğan's github activity graph](https://activity-graph.herokuapp.com/graph?username=doganenes&theme=react-dark)(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
