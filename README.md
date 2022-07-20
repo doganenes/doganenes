@@ -1,4 +1,4 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/86846812/179927695-ea8451e3-bd5a-46c2-8176-4d855a4d2a61.jpeg" width="60%"/></div><br/>
+<div align="center"><img src="https://user-images.githubusercontent.com/86846812/179927695-ea8451e3-bd5a-46c2-8176-4d855a4d2a61.jpeg" width="75%"/></div><br/>
 <div align="center">
  👋 Hi, I’m Enes Doğan.<br/>
  👀 I’m interested in Frontend Web Development.<br/>
