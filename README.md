@@ -5,8 +5,18 @@
  🌱 I’m currently learning Javascript, Reactjs, Bootstrap.<br/>
   </div>
 <hr>
-<h2 align="center">👇Contact with me</h2>
 <div align="center">
+<h2>Languages and Tools</h2>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+<hr>
+<div align="center">
+  <h2 align="center">👇Contact with me</h2>
   <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank"href="https://stackoverflow.com/users/16469814/enes-dogan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;
