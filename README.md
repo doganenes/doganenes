@@ -6,6 +6,8 @@
  🌱 I’m currently learning Javascript, Reactjs, Bootstrap.<br/>
   </div>
 <hr>
+
+<!-- languages and tools -->
 <div align="center">
 <h2>Languages and Tools</h2>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -18,6 +20,8 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div>
 <hr>
+
+<!-- social -->
 <div align="center">
   <h2 align="center">👇Contact with me</h2>
   <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
@@ -28,12 +32,13 @@
   <a href="mailto:enesdogandigital@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark)<br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=doganenes&theme=dark&hide_border=true)<br/>
-![Enes Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark)<br/>
-![Enes Doğan's github activity graph](https://activity-graph.herokuapp.com/graph?username=doganenes&theme=react-dark)<br/>
-![](https://github-profile-trophy.vercel.app/?username=doganenes&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
+<!-- stats -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doganenes&theme=dark&hide_border=true"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark"><br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=doganenes&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
 <!---
 doganenes/doganenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
