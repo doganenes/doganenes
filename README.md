@@ -34,9 +34,9 @@
 
 <!-- stats -->
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark"><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=doganenes&theme=dark&hide_border=true"><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=doganenes&theme=dark"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doganenes&layout=compact&theme=dark"><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=doganenes&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
