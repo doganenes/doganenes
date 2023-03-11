@@ -1,4 +1,4 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/86846812/180318755-45839662-3ec7-426c-81a5-060732070987.jpg" width="50%" /></div><br/>
+<div align="center"><img src="https://user-images.githubusercontent.com/86846812/180318755-45839662-3ec7-426c-81a5-060732070987.jpg" width="60%" /></div><br/>
 
 <div align="center">
  👋 Hi, I’m Enes Doğan.<br/>
