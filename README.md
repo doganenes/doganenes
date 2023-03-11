@@ -3,7 +3,7 @@
 <div align="center">
  👋 Hi, I’m Enes Doğan.<br/>
  👀 I’m interested in Full Stack Development.<br/>
- 🌱 I’m currently learning React.js, Node.js, SQL.<br/>
+ 🌱 I’m currently learning React.js, Node.js, and SQL.<br/>
  📫 How to reach me enesdoganlive@hotmail.com
 </div>
 <hr>
