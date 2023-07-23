@@ -6,7 +6,18 @@
 </div>
 <hr>
 
-<!-- languages and tools -->
+<!-- social -->
+<div>
+  <h2>Connect with me</h2>
+  <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a target="_blank"href="https://stackoverflow.com/users/16469814/enes-dogan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a target="_blank"href="https://codepen.io/enesdogan"><img src="https://img.shields.io/badge/CodePen-gray?style=for-the-badge&logo=codepen&logoColor=black" /></a>
+  <a target="_blank"href="https://enesdogan99.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  </div>
+  <hr/>
+
+<!-- tech stack -->
 <div>
 <h2>Tech Stack</h2>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> 
@@ -20,17 +31,6 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <hr>
-
-<!-- social -->
-<div>
-  <h2>Connect with me</h2>
-  <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a target="_blank"href="https://stackoverflow.com/users/16469814/enes-dogan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a target="_blank"href="https://codepen.io/enesdogan"><img src="https://img.shields.io/badge/CodePen-gray?style=for-the-badge&logo=codepen&logoColor=black" /></a>
-  <a target="_blank"href="https://enesdogan99.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  </div>
-  <hr/>
 
 <!-- stats -->
 <div>
