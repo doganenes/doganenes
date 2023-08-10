@@ -12,7 +12,6 @@
   <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a target="_blank"href="https://stackoverflow.com/users/16469814/enes-dogan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a target="_blank"href="https://codepen.io/enesdogan"><img src="https://img.shields.io/badge/CodePen-gray?style=for-the-badge&logo=codepen&logoColor=black" /></a>
   <a target="_blank"href="https://enesdogan99.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   </div>
   <hr/>
