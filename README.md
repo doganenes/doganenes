@@ -1,7 +1,6 @@
 <h1>Hi, I’m Enes Doğan</h1>
 <div >
  👨‍💻 I'm a 3rd grade Computer Engineering student at Manisa Celal Bayar University.<br>
- 🖥️ I'm interested in backend development.<br>
  📫 How to reach me <a href="mailto:enesdoganlive@hotmail.com">enesdoganlive@hotmail.com</a>
 </div>
 <hr>
