@@ -1,6 +1,6 @@
 <h1>Hi, I’m Enes Doğan</h1>
 <div >
- 👨‍💻 I'm a 3rd grade Computer Engineering student at Manisa Celal Bayar University.<br>
+ 👨‍💻 I'm a 4th grade Computer Engineering student at Manisa Celal Bayar University.<br>
  📫 How to reach me <a href="mailto:enesdoganlive@hotmail.com">enesdoganlive@hotmail.com</a>
 </div>
 <hr>
@@ -11,8 +11,8 @@
   <a target="_blank"href="https://www.linkedin.com/in/doganenes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank"href="https://www.hackerrank.com/enesdgn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a target="_blank"href="https://stackoverflow.com/users/16469814/enes-dogan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a target="_blank" href="https://medium.com/@enesdogann/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  </div>
+ <a target="_blank" href="https://medium.com/@enesdogann/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+   </div>
   <hr/>
 
 <!-- tech stack -->
